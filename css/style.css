@@ -28,6 +28,10 @@ body{
     padding-bottom: 40px;
 }
 
+.w3-sidebar {
+  background-color: #373B44; /* Тёмно-синий */
+}
+
 .my-photo{
     width: 370px;
 }
