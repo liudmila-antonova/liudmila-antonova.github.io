@@ -21,16 +21,12 @@ body{
     box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
 }
 
-.sidebar{
+.sidebar {
+    background-color: #b0c4de; /* или любой другой */
     width: 370px;
     padding-top: 40px;
     padding-bottom: 40px;
 }
-
-.w3-sidebar {
-  background-color: #2C3E50; /* Тёмно-синий */
-}
-
 .my-photo{
     width: 370px;
 }
